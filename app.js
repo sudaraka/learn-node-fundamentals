@@ -47,7 +47,7 @@ app.get('/users/:id', function(request, response) {
 
         response.json({
             success: true,
-            users: result
+            user: result
         });
     });
 
@@ -67,7 +67,7 @@ app.post('/users', function(request, response) {
 
         response.json({
             success: true,
-            users: result
+            user: result
         });
 
     });
