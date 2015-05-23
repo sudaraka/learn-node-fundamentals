@@ -1,0 +1,22 @@
+{
+  "name": "learn-node-fundamentals",
+  "version": "1.0.0",
+  "description": "Practice code based on the video [Getting Started with Node.js Fundamentals](https://www.youtube.com/watch?v=9WN2NrsxvyI) by [Tony Pujals](https://twitter.com/subfuzion)",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudaraka/learn-node-fundamentals.git"
+  },
+  "author": "Sudaraka Wijesinghe <sudaraka@sudaraka.org> (http://sudaraka.org/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudaraka/learn-node-fundamentals/issues"
+  },
+  "homepage": "https://github.com/sudaraka/learn-node-fundamentals#readme",
+  "dependencies": {
+    "mocha": "^2.2.5"
+  }
+}
