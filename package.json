@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sudaraka/learn-node-fundamentals#readme",
   "dependencies": {
+    "express": "^4.12.4",
     "mocha": "^2.2.5"
   }
 }
